@@ -22,7 +22,7 @@ pip install fastapi
 pip install -r requirements.txt
 ```
 
-**How to run by default**
+**3. How to run by default**
 ```Terminal cmd
 python -m uvicron app:app --reload
 ```

@@ -7,8 +7,8 @@
 - [fastAPI Architecture]
 - [Backend API for Me-Skin Prediction]
   
-## GCP Architecture
-<img src= "https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Arsitekture%20fastAPI.jpg" align="center">
+## Tampilan Me-Skin HHealth
+<img src= "https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Me-Skin%20Health.png" align="center">
 
 ## Backend API for Padicare
 ## Installation

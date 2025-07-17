@@ -15,7 +15,7 @@ Me-Skin adalah apotek online yang menyediakan berbagai macam obat-obatan, produk
 http://127.0.0.1:8000/
   
 ## About Project
-https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Tutorial.mp4
+[https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Tutorial.mp4](https://github.com/user-attachments/assets/af3451ea-c021-4499-9081-19c3b7781198)
 
 ## Built with
 

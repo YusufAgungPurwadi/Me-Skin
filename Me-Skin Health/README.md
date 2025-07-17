@@ -5,44 +5,16 @@
 ## Table of contents
 
 - [Tampilan Me-Skin Health]
-- [Backend API for Me-Skin Prediction]
+- [Installation Me-Skin Health]
   
 ## Tampilan Me-Skin Health
 <img src= "https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Me-Skin%20Health.png" align="center">
 
-## Backend API for Padicare
 ## Installation
-**1. Install using fastAPI**
-```Terminal cmd
-pip install fastapi
-```
-
-2. Install using requirements.txt
-```Terminal cmd
-pip install -r requirements.txt
-```
-
-**How to run by default**
-```Terminal cmd
-python -m uvicron app:app --reload
+**1. Install using phpMyAdmin**
+```Browser
+https://www.phpmyadmin.net/downloads/
 ```
 
 ## Endpoints
 http://localhost/epharmacy-native/
-
-## Get Image Data Padicare
-- URL
-    - `/upload`
-
-- Method
-    - GET
-
-
-## Get Prediction Data
-- URL
-    - `/predictions/{predictionId}`
-
-- Method
-    - GET
-
-

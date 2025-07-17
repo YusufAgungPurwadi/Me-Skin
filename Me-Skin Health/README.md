@@ -4,10 +4,10 @@
 
 ## Table of contents
 
-- [fastAPI Architecture]
+- [Tampilan Me-Skin Health]
 - [Backend API for Me-Skin Prediction]
   
-## Tampilan Me-Skin HHealth
+## Tampilan Me-Skin Health
 <img src= "https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Me-Skin%20Health.png" align="center">
 
 ## Backend API for Padicare

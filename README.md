@@ -28,7 +28,7 @@ http://127.0.0.1:8000/
   - Fast API
   - PHP
   - mySQL (XAMPP)
-  - localhost (http://localhost/epharmacy-native/)
+  - localhost
      
 ## Part of Repository
 

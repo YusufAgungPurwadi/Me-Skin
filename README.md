@@ -11,11 +11,9 @@
 
 Me-Skin adalah apotek online yang menyediakan berbagai macam obat-obatan, produk kesehatan dan prediction kanker kulit dengan kemudahan berbelanja secara online. Dengan Me-skin, Anda dapat memesan obat-obatan dan produk kesehatan dengan mudah dan cepat tanpa harus keluar rumah. Semua bisa di Me-skin!
 
-
-## PadiCare App Download
-  - [Click this to download the application](https://drive.google.com/drive/folders/1VsrfkFLPT04yYVocVp3FX4vWb9djcZ5N?usp=drive_link)
-
-
+## Me-Skin Web
+http://127.0.0.1:8000/
+  
 ## About Project
 https://github.com/user-attachments/assets/bb0b2f6d-605a-426c-8318-862bd583e653
 
@@ -27,26 +25,27 @@ https://github.com/user-attachments/assets/bb0b2f6d-605a-426c-8318-862bd583e653
   - Pyhton
     
 - **Backend:**
-  - 
+  - Fast API
+  - SQL (XAMPP)
  
 ## Getting Started
 
 - **Prerequisites:**
-  - Android
+  - Android OR Website
   - Internet Connection
-  - Camera
+  - Image
 
 - **Installation:**
-  - Download the .apk file from Drive [![padiCare]
-  - Install the app and enjoy the scanning
+  - Download the .apk file from Github OR Clone
+  - After downloading, open the project file in VS Code. Then run it in CMD with the following command: python -m uvicron app:app --reload
+  - Install the app and enjoy the prediction
  
 # PadiCare App Features
-
-1. **Scan Padi**
-   - The app features a built-in scanner using CameraX to identify and display names of scanned items on diseased rice plant. 
+1. **Scan Prediction Cancer Kulit**
+   - 
 2. **Advice**
-   - After a disease is detected, PadiCare provides immediate recommendations for treatment and disease management.
-  
+   - Once a disease is detected, Me-Skin provides immediate recommendations for treatment and management of the disease.
+     
 ## Part of Repository
 
 In our project is divided into 2 types, this one for the core repository:

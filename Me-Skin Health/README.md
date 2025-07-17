@@ -28,7 +28,7 @@ python -m uvicron app:app --reload
 ```
 
 ## Endpoints
-[https://127.0.0.1:8000](http://127.0.0.1:8000)
+http://localhost/epharmacy-native/
 
 ## Get Image Data Padicare
 - URL

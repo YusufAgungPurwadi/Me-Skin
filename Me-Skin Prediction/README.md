@@ -1,11 +1,11 @@
-<img src="https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Google-Cloud-Platform.jpg" align="right" height=200>
+<img src="[https://github.com/YusufAgungPurwadi/MLGCP-Api/blob/main/Google-Cloud-Platform.jpg](https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/FastAPI_b.avif)" align="right" height=200>
 
 # :cloud: FastAPI
 
 ## Table of contents
 
-- [GCP Architecture](#GCP_Architecture)
-- [Backend API for Padicare](#Backend_API_for_Padicare)
+- [fastAPI Architecture]
+- [Backend API for Me-Skin Prediction]
   
 ## GCP Architecture
 <img src= "https://github.com/PadiCare/main-backend-api/blob/main/GCP%20Architecture/GCP%20Architecture.jpg" align="center">

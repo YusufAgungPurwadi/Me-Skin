@@ -3,8 +3,7 @@
 | :------------------------ | :-------------------   | :----------------- |
 | Muhammad Faris Kurniawan | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada-faris-kurniawan/)
 | Yusuf Agung Purwadi | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-agung-a1b611333/)
-| Dava Mulia Agung | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
-.(https://www.linkedin.com/in/dava-mulia-agung-noviandra-04889a352/)
+| Dava Mulia Agung | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dava-mulia-agung-noviandra-04889a352/)
 
 <p align="center">
   <img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Profile%20Me-Skin.png"<img width="300" height="150" alt="Profile Me-Skin" src="https://github.com/user-attachments/assets/3c0cf0bd-85a8-4a09-bf5b-14babfc9e2f2" />

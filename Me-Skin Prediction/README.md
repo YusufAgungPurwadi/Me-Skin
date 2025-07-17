@@ -8,26 +8,27 @@
 - [Backend API for Me-Skin Prediction]
   
 ## GCP Architecture
-<img src= "https://github.com/PadiCare/main-backend-api/blob/main/GCP%20Architecture/GCP%20Architecture.jpg" align="center">
+<img src= "https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Arsitekture%20fastAPI.jpg" align="center">
 
 ## Backend API for Padicare
 ## Installation
-**1. Install using NPM**
-```javascript
-npm install
-npm install --save-dev
+**1. Install using fastAPI**
+```Terminal cmd
+pip install fastapi
+```
+
+2. Install using requirements.txt**
+```Terminal cmd
+pip install -r requirements.txt
 ```
 
 **How to run by default**
-```javascript
-npm run start
+```Terminal cmd
+python -m uvicron app:app --reload
 ```
-**How to run using Nodemon**
-```javascript
-nodemon start
 
 ## Endpoints
-[https://localhost:0.0.0.0](http://localhost:0.0.0.0)
+[https://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## Get Image Data Padicare
 - URL
@@ -36,9 +37,6 @@ nodemon start
 - Method
     - GET
 
-- Response
-    ```json
-    
 
 ## Get Prediction Data
 - URL
@@ -47,8 +45,6 @@ nodemon start
 - Method
     - GET
 
-- Response
-    ```json
 
 ## Get Analysis Data
 - URL
@@ -56,7 +52,3 @@ nodemon start
 
 - Method
     - GET
-
-- Response
-    ```json
-

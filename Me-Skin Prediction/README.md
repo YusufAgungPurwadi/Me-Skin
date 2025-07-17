@@ -1,4 +1,4 @@
-<img src="(https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/FastAPI_b.avif)" align="right" height=200>
+<img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/FastAPI_b.avif" align="right" height=200>
 
 # :cloud: FastAPI
 

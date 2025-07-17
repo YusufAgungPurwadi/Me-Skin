@@ -3,7 +3,7 @@
 | :------------------------ | :-------------------   | :----------------- |
 | Muhammad Faris Kurniawan | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada-faris-kurniawan/)
 | Yusuf Agung Purwadi | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-agung-a1b611333/)
-| Dava Mulia Agung | Universitas Esa Unggul | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dava.muliaagungnoviandra)
+| Dava Mulia Agung | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dava-mulia-agung-noviandra-04889a352/)
 
 <p align="center">
   <img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Profile%20Me-Skin.png"<img width="300" height="150" alt="Profile Me-Skin" src="https://github.com/user-attachments/assets/3c0cf0bd-85a8-4a09-bf5b-14babfc9e2f2" />
@@ -28,32 +28,9 @@ http://127.0.0.1:8000/
   - Fast API
   - PHP
   - SQL (XAMPP)
- 
-## Getting Started
-
-- **Prerequisites:**
-  - Android OR Website
-  - Internet Connection
-  - Image
-
-- **Installation:**
-  - Download the .apk file from Github OR Clone
-  - After downloading, open the project file in VS Code. Then run it in CMD with the following command: python -m uvicron app:app --reload
-  - Install the app and enjoy the prediction
- 
-# PadiCare App Features
-1. **Scan Prediction Cancer Kulit**
-   - 
-2. **Advice**
-   - Once a disease is detected, Me-Skin provides immediate recommendations for treatment and management of the disease.
      
 ## Part of Repository
 
 In our project is divided into 2 types, this one for the core repository:
-  - [Machine Learning](https://github.com/PadiCare/MachineLearning_Model)
-  - [Cloud Computing](https://github.com/PadiCare/main-backend-api)
-  - [Mobile Development](https://github.com/PadiCare/Mobile-App)
-
-For the other repository, it can be view here:
-  - [Machine Learning Backend](https://github.com/PadiCare/ml-backend)
-
+  - [fastAPI Computing](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
+  - [Me-Skin Health](https://github.com/PadiCare/Mobile-App)

@@ -17,7 +17,7 @@
 pip install fastapi
 ```
 
-2. Install using requirements.txt**
+2. Install using requirements.txt
 ```Terminal cmd
 pip install -r requirements.txt
 ```

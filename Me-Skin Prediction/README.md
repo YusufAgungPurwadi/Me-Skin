@@ -45,10 +45,3 @@ python -m uvicron app:app --reload
 - Method
     - GET
 
-
-## Get Analysis Data
-- URL
-    - `/analysis/{predictionLabel}`
-
-- Method
-    - GET

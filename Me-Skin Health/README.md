@@ -1,6 +1,6 @@
 <img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/FastAPI_b.avif" align="right" height=200>
 
-# :cloud: FastAPI
+# :cloud: phpMyAdmin
 
 ## Table of contents
 
@@ -44,4 +44,5 @@ python -m uvicron app:app --reload
 
 - Method
     - GET
+
 

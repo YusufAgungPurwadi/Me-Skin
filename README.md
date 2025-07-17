@@ -27,10 +27,14 @@ http://127.0.0.1:8000/
 - **Backend:**
   - Fast API
   - PHP
-  - SQL (XAMPP)
+  - mySQL (XAMPP)
+  - Localhost
      
 ## Part of Repository
 
-In our project is divided into 2 types, this one for the core repository:
-  - [fastAPI Computing](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
-  - [Me-Skin Health](https://github.com/PadiCare/Mobile-App)
+In our project is divided into 3 types, this one for the core repository:
+  - [Me-Skin ML](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20ML)
+  - [Me-Skin Prediction](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
+  - [Me-Skin Health](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20ML)
+  
+  

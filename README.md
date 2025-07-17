@@ -51,9 +51,6 @@ http://127.0.0.1:8000/
 
 In our project is divided into 2 types, this one for the core repository:
   - [Machine Learning](https://github.com/PadiCare/MachineLearning_Model)
-  - [Cloud Computing](https://github.com/PadiCare/main-backend-api)
-  - [Mobile Development](https://github.com/PadiCare/Mobile-App)
-
-For the other repository, it can be view here:
-  - [Machine Learning Backend](https://github.com/PadiCare/ml-backend)
+  - [fastAPI Computing](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
+  - [Me-Skin Healh](https://github.com/PadiCare/Mobile-App)
 

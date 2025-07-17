@@ -1,8 +1,9 @@
 ## Team Members - Kelompok 3 IMK
-|          Member           |Student ID   |University              | Contact            |
-| :------------------------ | :---------- | :-------------------   | :----------------- |
-| Muhammad Faris Kurniawan | M204B4KY282 | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada-faris-kurniawan/)
-| Yusuf Agung Purwadi | C204B4KY4578 |  Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-agung-a1b611333/)
+|          Member           |University              | Contact            |
+| :------------------------ | :-------------------   | :----------------- |
+| Muhammad Faris Kurniawan | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammada-faris-kurniawan/)
+| Yusuf Agung Purwadi | Universitas Esa Unggul | [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-agung-a1b611333/)
+| Dava Mulia Agung | Universitas Esa Unggul | [![Facebook](https://www.facebook.com/dava.muliaagungnoviandra)
 
 <p align="center">
   <img src="<img width="254" height="98" alt="Profile Me-Skin" src="https://github.com/user-attachments/assets/3c0cf0bd-85a8-4a09-bf5b-14babfc9e2f2" />

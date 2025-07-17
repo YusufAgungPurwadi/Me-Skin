@@ -33,4 +33,4 @@ http://127.0.0.1:8000/
 
 In our project is divided into 2 types, this one for the core repository:
   - [fastAPI Computing](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
-  - [Me-Skin Healh](https://github.com/PadiCare/Mobile-App)
+  - [Me-Skin Health](https://github.com/PadiCare/Mobile-App)

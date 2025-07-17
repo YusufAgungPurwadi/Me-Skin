@@ -6,7 +6,7 @@
 | Dava Mulia Agung | Universitas Esa Unggul | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dava.muliaagungnoviandra)
 
 <p align="center">
-  <img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Profile%20Me-Skin.png"<img width="254" height="98" alt="Profile Me-Skin" src="https://github.com/user-attachments/assets/3c0cf0bd-85a8-4a09-bf5b-14babfc9e2f2" />
+  <img src="https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Gambar%20Readme/Profile%20Me-Skin.png"<img width="300" height="150" alt="Profile Me-Skin" src="https://github.com/user-attachments/assets/3c0cf0bd-85a8-4a09-bf5b-14babfc9e2f2" />
 </p>
 
 Me-Skin adalah apotek online yang menyediakan berbagai macam obat-obatan, produk kesehatan dan prediction kanker kulit dengan kemudahan berbelanja secara online. Dengan Me-skin, Anda dapat memesan obat-obatan dan produk kesehatan dengan mudah dan cepat tanpa harus keluar rumah. Semua bisa di Me-skin!

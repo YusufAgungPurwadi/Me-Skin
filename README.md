@@ -35,6 +35,6 @@ http://127.0.0.1:8000/
 In our project is divided into 3 types, this one for the core repository:
   - [Me-Skin ML](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20ML)
   - [Me-Skin Prediction](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Prediction)
-  - [Me-Skin Health](https://github.com/YusufAgungPurwadi/Me-Skin/blob/main/Me-Skin%20Health%2FREADME.md)
+  - [Me-Skin Health](https://github.com/YusufAgungPurwadi/Me-Skin/tree/main/Me-Skin%20Health)
   
   
